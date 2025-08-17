@@ -33,7 +33,7 @@ const MultiCityForm = () => {
             day="Friday"
           />
       </div>
-        <div className="px-[15px] py-[8px] border border-[#dbdde0] max-h-[73.6px] rounded-[10px] w-[100%] max-w-[200.4px] shrink-0">
+        <div className="px-[15px] py-[8px] border border-[#dbdde0] max-h-[73.6px] rounded-[10px] w-[100%] max-w-[253px] shrink-0">
         <PassengerSelector label="traveler, Class" travelerCount="1" travelClass="Business"/>
       </div>
       
